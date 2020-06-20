@@ -7755,6 +7755,22 @@
 				"state": "New York",
 				"country": "United States"
 			}
-		}
-	]
-}
+		
+		},
+		{
+			"id": 494,
+			"name": "Anath Kantonda",
+			"img": "https://anathkantonda.github.io/portfolio/assets/Me2.jpg",
+			"links": {
+				"website": "https://anathkantonda.github.io/portfolio/",
+				"linkedin": "https://www.linkedin.com/in/anath-kantonda-152505115/",
+				"github": "https://github.com/anathkantonda"
+			},
+			"jobTitle": "Full Stack Developer",
+			"location": {
+				"city": "Johannesburg",
+				"state": "Gauteng",
+				"country": "South Africa"
+			}
+		},
+		
